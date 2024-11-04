@@ -1,17 +1,22 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Página-1" id="XzlhUGUyLlrkdnlMe2Bx">
     <mxGraphModel dx="2074" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="https://dev.to/surajondev/awesome-list-of-the-best-developer-tools-12fp" link="https://dev.to/surajondev/awesome-list-of-the-best-developer-tools-12fp" id="HAvaJOLqbglY5Zh_GMzT-2">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="130" y="120" width="410" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="https://www.orientsoftware.com/blog/front-end-development-tools/" link="https://www.orientsoftware.com/blog/front-end-development-tools/" id="HAvaJOLqbglY5Zh_GMzT-3">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="120" y="180" width="380" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://survey.stackoverflow.co/2023/#most-popular-technologies-webframe" link="https://survey.stackoverflow.co/2023/#most-popular-technologies-webframe" id="mQEejFKVor4EkJyHWjAD-1">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="120" y="240" width="430" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
